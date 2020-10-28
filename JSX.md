@@ -9,11 +9,33 @@ JSX converts HTML tags into react elements.
 Using `createElement()`:
 
 ```js
+import React from 'react'
+
+const Hello = () => {
+    return React.createElement(
+        'div',
+        null,
+        React.createElement('h1', null, 'Hello Gengs')
+    )
+}
+
+export default Hello
 
 ```
 
 Using JSX:
 
 ```js
+import react from 'react'
+
+const Hello = () => {
+    return (
+        <div>
+            <h1>Hello Gengs</h1>
+        </div>
+    )
+}
+
+export default Hello
 
 ```
