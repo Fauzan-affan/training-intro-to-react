@@ -1,3 +1,0 @@
-# Props and State
-
-a
