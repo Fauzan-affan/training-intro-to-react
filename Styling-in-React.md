@@ -131,7 +131,7 @@ Create a css and named it `styles.module.css` and type some style inside:
 ```css
 .success {
     color: brown;
-    font-size: "100px";
+    font-size: 100px;
 }
 ```
 
