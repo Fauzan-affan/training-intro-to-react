@@ -94,7 +94,7 @@ export default ConditionalRender;
 
 How to use Ternary is `Statements ? true : false`
 
-## Short sircuit operator
+## Short Sircuit Operator
 
 ```js
 import React from "react";
