@@ -10,7 +10,6 @@ React Js is a JavaScript library created by facebook. React is not an MVC framew
 * More than 100k stars on Github
 * Huge community
 * In demand skillset
-
 * Materials (80% technical and 20% theory):
     * Create React App
     * Components
