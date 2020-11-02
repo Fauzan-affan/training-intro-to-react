@@ -17,7 +17,7 @@ const Fragments = () => {
 export default Fragments;
 ```
 
-![img](https://ibb.co/D9b1yJh)
+![img](./img/1.png)
 
 **This is wrapped with Fragment:**
 
@@ -36,6 +36,6 @@ const Fragments = () => {
 export default Fragments
 ```
 
-![img](https://ibb.co/59dZVm7)
+![img](./img/2.png)
 
 > We also can use `<>` and closing with `</>` instead of `<React.Fragment>`
