@@ -11,9 +11,7 @@ React Js is a JavaScript library created by facebook. React is not an MVC framew
 * Huge community
 * In demand skillset
 
-**Thursday, Nov 05 2020 (10 AM - 03 PM)**
-
-* Materials:
+* Materials (80% technical and 20% theory):
     * Create React App
     * Components
     * JSX
@@ -22,6 +20,3 @@ React Js is a JavaScript library created by facebook. React is not an MVC framew
     * Styling in React
     * Basic of Form Handling
     * Fragments
-
-* Final Assessment:
-    * React Gallery
